@@ -123,6 +123,9 @@ small {
     padding: 10px ;
     border-radius: 8px;
 }
+.contact-container form small {
+    color: red;
+}
 .contact-container form {
     padding: 15px;
     border-radius: 10px;
@@ -159,4 +162,18 @@ small {
     align-items: center;
     flex-direction: column;
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.messagesentpage {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 60px 0px;
+    width: 100vw;
+    height: 100vh;
+
+}
+.backktohome {
+    margin: 35px;
+    border: 3px solid yellow;
+    padding: 15px ;
 }
