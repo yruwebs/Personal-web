@@ -89,11 +89,6 @@ footer {
 footer h3 {
     margin-bottom: 16px;
 }
-.footerline {
-    width: 100px;
-    height: 2px;
-    background-color: black;
-}
 small {
     margin-top: 5px;
 } 
