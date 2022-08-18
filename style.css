@@ -28,7 +28,7 @@ list-style-type:none ;
 .nav-links li a{
 text-decoration: none;
 color:black ;
-margin:0% 14px ;
+margin:0% 10px ;
 }
 .mainpage {
    padding: 2%; 
@@ -43,8 +43,8 @@ display: flex;
     margin-top: 150px;
 }
 .colom2 img {
-    width: 350px;
-    height: 400px;
+    width: 100%;
+    height: 100%;
 }
 .secondmainpage {
 width: 100vw;
@@ -90,7 +90,7 @@ footer h3 {
     margin-bottom: 15px;
 }
 .footerline {
-    width: 1150px;
+    width: 100px;
     height: 2px;
     background-color: black;
 }
